@@ -54,6 +54,9 @@ A simple and elegant weather web application built using **Flask**. This app all
 
 ![alt text](image.png)
 
+## Video Link
+https://drive.google.com/file/d/1YLk9c4DENDsp2NnZg5V3GbVZHzwctTMi/view?usp=sharing
+
 ## 🌐 Deployment
 
 This app can be easily deployed on platforms like **Heroku**, **Render**, or **Vercel** using Docker or gunicorn.
